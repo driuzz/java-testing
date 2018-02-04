@@ -1,0 +1,54 @@
+{
+  "object1": {
+    "name1": "value1",
+    "name2": 222,
+    "name3": 33.3,
+    "name4": true,
+    "name5": null
+  },
+  "array1": [
+    "elem1",
+    "elem2",
+    "elem3"
+  ],
+  "object2": {
+    "name6": "value6",
+    "object3": {
+      "name7": 777,
+      "name8": 888
+    },
+    "array2": [
+      {
+        "subname1": "subval11",
+        "subname2": "subval12",
+        "subname3": "subval13"
+      },
+      {
+        "subname1": "subval21",
+        "subname2": "subval22",
+        "subname3": "subval23"
+      }
+    ]
+  },
+  "array3": [
+    {
+      "subobject": {
+        "subsubname1": 123
+      },
+      "subname4": "subval14",
+      "subname5": "subval15"
+    },
+    {
+      "subobject": {
+        "subsubname1": 234
+      },
+      "subname4": "subval24",
+      "subname5": "subval25"
+    }
+  ],
+  "single1": {
+    "single2": {
+      "single3": "singleval"
+    }
+  }
+}
